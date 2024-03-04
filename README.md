@@ -1,8 +1,8 @@
 # Chrome Extension TypeScript Starter
 
-![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
+![build](https://github.com/aniruddha-adhikary/linear-jira-sync-chrome/workflows/build/badge.svg)
 
-Chrome Extension, TypeScript and Visual Studio Code
+Synchronise 
 
 ## Prerequisites
 
